@@ -1,1 +1,1 @@
-Floder contains a project on forecasting MCX Gold Price
+A "Time Series Modeling for Forecasting" project on MCX Gold Price
